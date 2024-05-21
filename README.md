@@ -1,4 +1,4 @@
-### Function Explanation: `check_load_time`
+#### Function Explanation: `check_load_time`
 
 The `check_load_time` function does the following:
 
